@@ -9,3 +9,5 @@ En este proyecto utilizamos el editor de código Visual Studio Code y los lengua
 </ol>
 
 ### Vista previa 
+![Uploading image.png…]()
+
