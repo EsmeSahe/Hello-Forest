@@ -9,5 +9,6 @@ En este proyecto utilizamos el editor de código Visual Studio Code y los lengua
 </ol>
 
 ### Vista previa 
-![Uploading image.png…]()
+![image](https://github.com/EsmeSahe/Hello-Forest/assets/151804210/adc06987-f710-43c3-9edd-bb685aa37172)
+
 
